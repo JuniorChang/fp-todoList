@@ -11,7 +11,8 @@
 
 <br>
 <p>Project is deployed on Netlify </p>
-[![Build Status](https://api.netlify.com/api/v1/badges/89354ec7-c8cf-43f6-af25-f7eebf8b5bc2/deploy-status)](https://app.netlify.com/sites/todoapp-byjr/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89354ec7-c8cf-43f6-af25-f7eebf8b5bc2/deploy-status)](https://app.netlify.com/sites/todoapp-byjr/deploys)
+<br>
 <a href="https://todoapp-byjr.netlify.app/"> Click here for live Sample of project </a>
 
 
