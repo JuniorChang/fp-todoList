@@ -11,7 +11,7 @@
 
 <br>
 <p>Project is deployed on Netlify </p>
-<a href="https://nostalgic-sinoussi-4aea29.netlify.app"> Click here for live Sample of project </a>
+<a href="https://todoapp-byjr.netlify.app/"> Click here for live Sample of project </a>
 
 <p>
 This is a "for-fun" side production
