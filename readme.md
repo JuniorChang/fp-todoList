@@ -7,8 +7,10 @@
 <li> Javascript </li>
 </p>
 
-<br>
 
+
+<br>
+<p>Project is deployed on Netlify </p>
 <a href="https://nostalgic-sinoussi-4aea29.netlify.app"> Click here for live Sample of project </a>
 
 <p>
