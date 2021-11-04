@@ -1,4 +1,4 @@
-
+<img src="[![Netlify Status](https://api.netlify.com/api/v1/badges/89354ec7-c8cf-43f6-af25-f7eebf8b5bc2/deploy-status)](https://app.netlify.com/sites/todoapp-byjr/deploys)" alt="Netlify Status">
 <h1> Simple To Do List Web Page </h1>
 
 <p>
